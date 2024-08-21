@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dramaplays.PlayTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-05-15T13:39:40" hostname="walle" time="0.002">
+  <properties/>
+  <testcase name="test_correction_test()" classname="dramaplays.PlayTest" time="0.001"/>
+  <testcase name="test_equailty()" classname="dramaplays.PlayTest" time="0.0"/>
+  <testcase name="test_equailty2()" classname="dramaplays.PlayTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
