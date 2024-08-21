@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dramaplays.PerformanceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-15T13:39:40" hostname="walle" time="0.002">
+  <properties/>
+  <testcase name="test_equailty_class()" classname="dramaplays.PerformanceTest" time="0.0"/>
+  <testcase name="test_equailty_class2()" classname="dramaplays.PerformanceTest" time="0.0"/>
+  <testcase name="test_equailty_class3()" classname="dramaplays.PerformanceTest" time="0.0"/>
+  <testcase name="test_assign_true()" classname="dramaplays.PerformanceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

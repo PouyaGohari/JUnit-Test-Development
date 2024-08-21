@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dramaplays.FactorPrinterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-05-15T13:39:40" hostname="walle" time="0.031">
+  <properties/>
+  <testcase name="comedy_testing()" classname="dramaplays.FactorPrinterTest" time="0.026"/>
+  <testcase name="test_unkonwn_play()" classname="dramaplays.FactorPrinterTest" time="0.001"/>
+  <testcase name="test_credits()" classname="dramaplays.FactorPrinterTest" time="0.001"/>
+  <testcase name="tragedy_testing()" classname="dramaplays.FactorPrinterTest" time="0.0"/>
+  <testcase name="test_mulitple_performances()" classname="dramaplays.FactorPrinterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
