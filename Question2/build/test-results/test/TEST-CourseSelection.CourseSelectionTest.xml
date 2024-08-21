@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CourseSelection.CourseSelectionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-05-15T19:13:25" hostname="walle" time="0.018">
+  <properties/>
+  <testcase name="test_has_pas_pre_complex()" classname="CourseSelection.CourseSelectionTest" time="0.012"/>
+  <testcase name="test_has_pas_pre_emty_rec()" classname="CourseSelection.CourseSelectionTest" time="0.001"/>
+  <testcase name="test_has_pas_pre_isMehman_low_grade()" classname="CourseSelection.CourseSelectionTest" time="0.001"/>
+  <testcase name="test_has_pas_pre_low_grade()" classname="CourseSelection.CourseSelectionTest" time="0.0"/>
+  <testcase name="test_has_pas_pre_empty_rec_has_course()" classname="CourseSelection.CourseSelectionTest" time="0.0"/>
+  <testcase name="test_has_pas_pre_mid_grade()" classname="CourseSelection.CourseSelectionTest" time="0.001"/>
+  <testcase name="test_has_pas_pre_high_grade()" classname="CourseSelection.CourseSelectionTest" time="0.0"/>
+  <testcase name="test_has_pas_pre_emty_course()" classname="CourseSelection.CourseSelectionTest" time="0.0"/>
+  <testcase name="test_has_pas_pre_isMehman_high_grade()" classname="CourseSelection.CourseSelectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
